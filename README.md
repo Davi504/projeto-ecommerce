@@ -1,0 +1,1 @@
+projeto de e comerce ainda em desenvolvimento que estou fazendo usando django, hmtl/css, essse projeto não tem intenção comercial, estou apenas utilizando ele para estudo e me desenvolver na linguagem
